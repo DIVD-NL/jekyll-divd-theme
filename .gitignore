@@ -1,3 +1,11 @@
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+_config_livereload.yml
+_site/
+
+# From template
+
 *.gem
 *.rbc
 /.config
