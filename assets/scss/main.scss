@@ -1,0 +1,9 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+---
+
+// See https://dalanzg.github.io/tips-tutorials/posts/2016/03/25/how-to-use-sass-with-jekyll-bootstrap-and-font-awesome-example/
+$fa-font-path: "../webfonts";
+@import "assets/sass/fontawesome.scss";
+@import "assets/sass/solid.scss";
+ 

@@ -1,0 +1,51 @@
+{% assign team = site.team | map: "name" %}
+{% assign posts = site.posts %}
+{% if include.count %}
+	{% assign count=include.count %}
+{% else %}
+	{% assign count=20 %}
+{% endif %}
+
+<ul>
+	{% for post in posts %}
+		{% if forloop.index <= count %}
+			<li>
+				<div class="newsitem">
+				  <h3>
+				    <a href="{{ post.url }}">{{ post.title }}</a>
+				    <em>{{ post.date | date_to_long_string }}, by 
+				    	{% if post.author[0] %}
+				    		{% assign first = true %}
+				    		{% for post_author in post.author %}
+				    			{% if first %}
+				    				{% assign first = fase %}
+				    			{% else %}
+				    				,
+				    			{% endif %}
+							    {% if team contains post_author %}
+							    	<a href='https://www.divd.nl/team/{{ post_author | uri_escape }}/'>{{ post_author }}</a>
+							    {% else %}
+									{{ post_author }}
+								{% endif %}
+							{% endfor %}
+				    	{% else %}
+							{% assign post_author =  post.author | default: "anonymous" %}
+						    {% if team contains post_author %}
+						    	<a href='https://www.divd.nl/team/{{ post_author | uri_escape }}/'>{{ post_author }}</a>
+						    {% else %}
+								{{ post_author }}
+							{% endif %}
+						{% endif %}
+						</em>
+				  </h3>
+				  <p>{{ post.excerpt | escape }}</p>
+				  <a href="{{ post.url }}">Read more</a>
+				</div>
+			</li>
+		{% endif %}
+	{% endfor %}
+</ul>
+
+{% if site.posts.size > count %}
+<a href="/blog">More news here...</a>
+{% endif %}

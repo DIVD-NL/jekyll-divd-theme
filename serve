@@ -15,7 +15,7 @@ if [[ $(uname -a|grep -i microsoft|wc -l) -gt 0 ]]; then
 	echo "webrick:
   headers:" > _config_livereload.yml
   	grep Content-Security-Policy _config.yml | \
-  		sed "s#script-src #script-src http://$IP:35729 #" |\
+  		sed "s#script-src #script-src 'sha256-ehJx3nUTxQSjcKzJh47dVVjmxNcjTJlcgIuP/LP035Y=' http://$IP:35729 #" |\
   		sed "s#connect-src #connect-src * #" \
   		>> _config_livereload.yml
 else

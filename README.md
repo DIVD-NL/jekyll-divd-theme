@@ -35,6 +35,7 @@ Or install it yourself as:
 
 ## Usage
 
+This theme supports
 TODO: Write usage instructions here. Describe your available layouts, includes, sass and/or assets.
 
 ## Contributing

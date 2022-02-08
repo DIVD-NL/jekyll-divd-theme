@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<header class="special">
+    {{ content }}
+</header>
+<div class="highlights">
+    {% for tile in page.tiles %}
+        <section>
+            <div class="content">
+                <header>
+                    <a href="{{ tile.url }}">
+                        <i class="fas {{ tile.icon }}"></i>
+                    </a>
+                    <h3>
+                        {{ tile.name }}
+                    </h3>
+                </header>
+                <p>
+                    {{ tile.description }}
+                </p>
+            </div>
+        </section>
+    {% endfor %}
+</div>
