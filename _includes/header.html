@@ -10,8 +10,8 @@
     <meta name="theme-color" content="{{ site.divd.colors.theme-color }}">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="assets/scss/main.css">
+    <link rel="stylesheet" href="assets/scss/menu.css">
     {% comment %}
-        <link rel="stylesheet" href="assets/css/menu.css">
         <link rel="stylesheet" href="assets/css/mermaid.css">
     {% endcomment %}
 </head>
@@ -19,3 +19,5 @@
     {% if site.divd.skip-to-content-link %}
         <a id="skip-to-content" href="#content">Skip to the content.</a>
     {% endif %}
+    {% include menu.html %}
+

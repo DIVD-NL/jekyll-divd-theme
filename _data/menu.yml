@@ -1,0 +1,17 @@
+- name: Home
+  link: /
+  children:
+  - name: DIVD
+    link: https://www.divd.nl
+  - name: Home
+    link: /
+- name: Blog
+  link: /blog/
+- name: Donate
+  link: https://www.divd.nl/donate/
+- name: Just a page
+  link: /just-a-page
+- name: Includes
+  link: /includes/
+- name: A page with tiles
+  link: /tiles/

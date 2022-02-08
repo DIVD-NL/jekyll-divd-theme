@@ -38,6 +38,8 @@ divd:
   skip-to-content-link: true
   colors:
     theme-color: '#157878'
+  menu:
+    expand-blog: 10 # Set to 0 to not expand blog
 
 # Custom headers
 webrick:
