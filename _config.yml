@@ -14,7 +14,6 @@ timezone: Europe/Amsterdam
 future: true
 encoding: utf-8
 
-
 permalink: pretty
 markdown: kramdown
 show_downloads: false
@@ -33,6 +32,12 @@ plugins:
 #jekyll-secinfo:
 #  divd:
 #    url: /cases/DIVD-
+
+# Theme settings
+divd:
+  skip-to-content-link: true
+  colors:
+    theme-color: '#157878'
 
 # Custom headers
 webrick:

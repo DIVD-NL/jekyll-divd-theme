@@ -7,7 +7,7 @@
 
     {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
+    <meta name="theme-color" content="{{ site.divd.colors.theme-color }}">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     {% comment %}
         <link rel="stylesheet" href="assets/css/menu.css">
@@ -16,4 +16,6 @@
     {% endcomment %}
 </head>
 <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
+    {% if site.divd.skip-to-content-link %}
+        <a id="skip-to-content" href="#content">Skip to the content.</a>
+    {% endif %}
