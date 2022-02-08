@@ -1,4 +1,8 @@
+---
+---
 # jekyll-theme-divd
+
+This is the defaut layout for DIVD related sites.
 
 Welcome to your new Jekyll theme! In this directory, you'll find the files you need to be able to package up your theme into a gem. Put your layouts in `_layouts`, your includes in `_includes`, your sass files in `_sass` and any other assets in `assets`.
 
@@ -48,5 +52,5 @@ To add a custom directory to your theme-gem, please edit the regexp in `jekyll-t
 
 ## License
 
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+The theme is available as open source under the terms of the [Apache License, version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 

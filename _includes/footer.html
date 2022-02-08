@@ -1,0 +1,29 @@
+        {% comment %}
+            <footer id="footer">
+                <div class="inner">
+                    <div class="content">
+                        <ul class="plain">
+                            <li><a href="https://twitter.com/DIVDnl"><i class="icon fa-twitter">&nbsp;</i>Twitter</a></li>
+                            {% comment %}
+                            <li><a href="https://www.facebook.com/DIVDcsirt"><i class="icon fa-facebook">&nbsp;</i>Facebook</a></li
+                            {% endcomment %}
+                            <li><a href="https://www.linkedin.com/company/divd-nl"><i class="icon fa-linkedin">&nbsp;</i>LinkedIn</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </footer>
+        {% endcomment %}
+        <!-- Scripts -->
+        {% comment %}
+            <script src="assets/js/jquery.min.js"></script>
+            <script src="assets/js/browser.min.js"></script>
+            <script src="assets/js/breakpoints.min.js"></script>
+            <script src="assets/js/util.js"></script>
+            <script src="assets/js/main.js"></script>
+            <script src="assets/js/mermaid.min.js"></script>
+        {% endcomment %}
+        {% if jekyll_env!="production" %}
+            <script src="assets/js/livereload.js"></script>
+        {% endif %}
+    </body>
+</html>

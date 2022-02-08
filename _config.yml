@@ -1,14 +1,14 @@
-#theme: jekyll-theme-cayman
+theme: jekyll-theme-divd
 
-#paginate: 10
-#plugins: [jekyll-paginate]
-#paginate_path: "blog/:num/"
+paginate: 10
+plugins: [jekyll-paginate]
+paginate_path: "blog/:num/"
 
 language: nl-nl
 
-title: DIVD.fund
+title: Jekyll Theme DIVD
 description: "Making the internet safer through Coordinated Vulnerability Disclosure"
-repository: DIVD-NL/divd.fund
+repository: DIVD-NL/jekyll-theme-divd
 
 timezone: Europe/Amsterdam
 future: true
@@ -21,12 +21,14 @@ show_downloads: false
 github:
   is_project_page: false
 
-#plugins:
-#  - jekyll-sitemap
-#  - jekyll-redirect-from
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-paginate
+  - jekyll-last-modified-at
+  - jekyll-seo-tag
+  - jekyll-paginate
 #  - jekyll-secinfo
-#  - jekyll-paginate
-#  - jekyll-last-modified-at
 
 #jekyll-secinfo:
 #  divd:
@@ -35,7 +37,7 @@ github:
 # Custom headers
 webrick:
   headers:
-    Content-Security-Policy: default-src 'none'; font-src 'self'; img-src 'self' data:; script-src 'self' https://assets.calendly.com; style-src 'self'; connect-src 'self'; frame-src https://calendly.com;
+    Content-Security-Policy: default-src 'none'; font-src 'self'; img-src 'self'; script-src 'self'; style-src 'self'; connect-src 'self'; frame-src none;
 
 # Collections
 collections:
@@ -49,8 +51,7 @@ defaults:
 
 
 exclude:
-  - README.md
-  - serve*
+  - serve
   - "*.sh"
   - .keep
   - Gemfile
