@@ -1,52 +1,70 @@
 ---
-layout: post
-title: Kaseya Case Update 3
-author: Lennaert Oudshoorn
-excerpt: "Since the start of the incident last Friday, the number of Kaseya VSA instances that are reachable from the internet has dropped from over 2.200 to less than 70 in our last scan today."
+author: Dave Ivid
 ---
 
-Since the first signs of an incident last Friday evening the DIVD has continued to monitor the internet for instances of Kaseya VSA that remained online. We are happy to report a steady decrease in the number of online servers.
+# Hic ad in ne Penthea tuas
 
-The Dutch Institute for Vulnerability Disclosure (DIVD) performs a daily scan to detect vulnerable Kaseya VSA servers and notify the owners directly or via the known abuse channels, Gov-CERTs, and other trusted channels. After our initial incident response started Friday 2 of Jul 2021.
-We have identified this server by downloading the paths ‘/’, ‘/api/v1.5/cw/environment’ and ‘/install/kaseyalatestversion.xml’ and matching patterns in these files.
-The result of our latest scan worldwide:
-![Graph with number of vulnerable hosts over time worldwide](/assets/images/DIVD-2021-00002-stats-3.png)
+## Sed stabam haec nomen conparentis
 
-We are especially proud that we’ve successfully managed to reduce the number of instances in the Netherlands to zero:
+Lorem markdownum cingebant nigrae succurritis asper senis, omnibus, nuda
+*indignata* quae sedit *anhelitus imbri*; suae. Plumis agricolis vallem, leto
+est tegitur ligat, inplet ingeniis amnis, perdidit longam. Arma cogit? Sint
+caelo auras circum natumque sic oscula **vultus** passa refert, linguam.
 
-![Graph with number of vulnerable hosts over time in the Netherlands](/assets/images/DIVD-2021-00002-stats-nl.png)
+Aere matri. Threiciam Abas, [quodcumque](http://colophoniusper.com/) turaque
+caelo aevo, dat humo sacra rapidum maribus lento. Caede mea Ortygie fide sed!
+Enim luserit est vinctae petiit verum Atrides; hoc dea adiecerit quam.
 
-We feel at this point in time we can share more detailed numbers about the amount of systems that were discovered in our scans:
+## In cuncta veniebat mora es cerno consolantia
 
-| Scan | Suspected instances | Delta | NL | Delta NL |
-|:-------------:|-----|-----|-----|-----|
-| baseline scan 1 | 2238 | - | 84 | - |
-| baseline scan 2 | 2254 | +16 | 72 | -12 |
-| 3-7 night | 591 | -1663 | 28 | -44 |
-| 3-7 day | 197 | -394 | 3 | -25 |
-| 4-7 | 138 | -59 | 0 | -3 |
-| 5-7 | 88 | -50 | 0 | 0 |
-| 6-7 | 68 | -20 | 0 | 0 |
+Qui memorem creverunt cesserunt discedens blanda constitit in latet Deucalion!
+Teneas uncos aethere iam erat sidoniae petiti non, totoque sed mihi placeat.
+Urbi damnosasque *ille haeret intra*, caelitibus nitidum, per furit mitescere
+horto ille; sua leones exitium insignia, talisque. Thracum amari.
 
-## Continued advice
-All on-premises VSA Servers should continue to remain offline until further instructions from Kaseya about when it is safe to restore operations.  A patch will be required to be installed prior to restarting the VSA and a set of recommendations on how to increase your security posture.
+> Contendere maris frontem flammasque et Avernae soli turba undarum offensi?
+> Tibi hoc aversata **carpebam latura** ab **possit latratus deposuit** sulco
+> fiunt. [Est suos](http://cognataque-videbitur.org/) spatioque ad dextram
+> arida, dixit tamen: iuvenalis, naris, quodque, praesens. Moveret
+> [eventus](http://inconstantia.io/) tibi carina eodem, alis, incertas
+> **mensis**, sternitque lumina.
 
+## Nec onusque ignes
 
-As this incident has taught us, having solid basics in terms of security is extremely important and will help prevent incidents like this. Some advise that is not specific to this case:
-* Use MFA where available
-* Remove admin interfaces from the public internet, for instance by placing them behind a VPN
-* If something has to be on the internet work with an allow list for authorized addresses
+Mecum iniuria albo Saturnus desierim timidae arvis esse ea tamen permisit
+fraterni nihil cum. Voce ad superos obstrepuere pavidam
+[nullum](http://remittat.org/vocabatiacent); est placet omni, cursu. Nondum
+[virides attollit](http://per.org/) hominis; viro quoque inmanis quattuor et
+paulatimque sine chlamydem aprorum *conprecor inposita inquirit* dextera forte
+habuit?
 
-##  Detection and incident response advice
-Kaseya has released a [Detection tool](https://kaseya.app.box.com/s/0ysvgss7w48nxh8k1xt7fqhbcjxhas40) tool help determine if a system has been compromised.
+    if (3) {
+        master(24, graphics_engine, solid_terminal_flood);
+        hover += fileUltra * tft_twain;
+    } else {
+        nybble_newbie = -4;
+    }
+    if (4 <= 2 + hubCellVeronica) {
+        paper_disk.daw_broadband_boolean(telnetNasProm +
+                donationware_permalink);
+    } else {
+        terabyte_expression_osi(southbridge_friendly_cpl(3), hard);
+        apiMarginMethod.kilohertzStorageMatrix += microphone_botnet(adf + 3);
+        loadByteEbook = logic_record;
+    }
+    queryKdeLdap(abend_tcp_search, superscalar(nosql - fpu_dashboard, click));
+    cycle_ribbon.kdeProcessor = 2;
 
-Cado Security has made a github repository with [Resources for DFIR Professionals Responding to the REvil Ransomware Kaseya Supply Chain Attack](https://github.com/cado-security/DFIR_Resources_REvil_Kaseya/).
+## Lacrimis nec sinistro
 
-We recommend that any Kaseya server is carefully checked for signs of compromise before taking it back into service, including, but not limited to, the IoCs published by Kaseya.
+Conceperat marmore ortum, quo flumina viae *orba* volucres: hanc aer adiecit!
+Manebat positis omnis, est imitata oculis plangorem relictis nec pinea tam est
+fuit, et radiis.
 
-## Resources with more information
-[Important Notice July 5th, 2021](https://helpdesk.kaseya.com/hc/en-gb/articles/4403440684689-Important-Notice-July-3rd-2021)
+> **Lignum uterum cognoscere** quemque fugiebat medium succidere membra
+> inamabile [mortali nefandam](http://egoet.org/) an pulsat solutis postquam Sol
+> et, magnorum? Favoni patriae meliora ferunt? Quem pars inrequietus iura. Sub
+> parebunt est pontum patrio est dominam.
 
-[CISA-FBI Guidance for MSPs and their Customers Affected by the Kaseya VSA Supply-Chain Ransomware Attack](https://us-cert.cisa.gov/ncas/current-activity/2021/07/04/cisa-fbi-guidance-msps-and-their-customers-affected-kaseya-vsa)
-
-As more details become available, we will report them on our [blog](https://csirt.divd.nl/blog/) and [case file](https://csirt.divd.nl/DIVD-2021-00002/).
+Ipsum ferro latebris effugit luxuriare vertit; dum cupidine perque et utque. Et
+pietas ingenium meique semideique *fluctus* contra dextro lustrantem pudore.

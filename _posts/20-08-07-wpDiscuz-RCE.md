@@ -1,30 +1,70 @@
 ---
-layout: post
-title: wpDiscuz kwetsbaarheid maakt het mogelijk systeem over te nemen / wpDiscuz vulnerability allows system takeover
-author: Frank Breedijk
-excerpt:  In de WordPress Plugin wpDiscuz zit een kritieke kwetsbaarheid die aanvalles in staat stelt een systemen over te nemen / Wordpress plugin wpDiscuz has a critical vulnerability that allows an attacker to take over the system.
-
+author: Dave Ivid
 ---
-<p>
-	<small><a href='{{ page.url }}#english'>English below</a></small>
-</p>
 
-### Nederlands
+# Hic ad in ne Penthea tuas
 
-Op 19 Juni is een kritieke kwetsbaarheid in de wpDiscuz plugin ontdekt en gemeld aan de ontwikkelaars van wpDiscuz. De ontwikkelaar hebben, te vergeefs, geprobeert deze kwetsbaaheid op te lossen versie 7.0.4 en uiteindelijk op 23 July 2020 opgelost in versie 7.0.5. Door een fout in de validatie van uploads van de gebruiker is het voor een gebruiker mogelijk PHP code uit te voeren als de server en hiermee de web server over te nemen.
+## Sed stabam haec nomen conparentis
 
-Bleeping Computer heeft een [artikel gepubliceerd](https://www.bleepingcomputer.com/news/security/critical-wordpress-plugin-bug-lets-hackers-take-over-hosting-account/) deze kwetsbaarheid.
+Lorem markdownum cingebant nigrae succurritis asper senis, omnibus, nuda
+*indignata* quae sedit *anhelitus imbri*; suae. Plumis agricolis vallem, leto
+est tegitur ligat, inplet ingeniis amnis, perdidit longam. Arma cogit? Sint
+caelo auras circum natumque sic oscula **vultus** passa refert, linguam.
 
-Het DIVD Security Meldpunt gaat beheerders van websites waarvan ze heeft kunnen achterhalen dat deze een kwetsbare versie van wpDiscuz draaien waarschuwen.
+Aere matri. Threiciam Abas, [quodcumque](http://colophoniusper.com/) turaque
+caelo aevo, dat humo sacra rapidum maribus lento. Caede mea Ortygie fide sed!
+Enim luserit est vinctae petiit verum Atrides; hoc dea adiecerit quam.
 
-Voor meer informatie zie: [case DIVD-2020-00010](/DIVD-2020-00010/)
+## In cuncta veniebat mora es cerno consolantia
 
-### English
+Qui memorem creverunt cesserunt discedens blanda constitit in latet Deucalion!
+Teneas uncos aethere iam erat sidoniae petiti non, totoque sed mihi placeat.
+Urbi damnosasque *ille haeret intra*, caelitibus nitidum, per furit mitescere
+horto ille; sua leones exitium insignia, talisque. Thracum amari.
 
-On 19 June a critical vulnerability in the wpDiscux plugin was discovered and reported to the developers of wpDiscuz. The developers tried to patch this vulnerability in release 7.0.4., but failed. The vulnerability was fixed in version 7.0.5. wich was released on 23 July 2020. Due to a failed validation of user uploaded data an attacker can upload PHP code to the server and in this way take over the server.
+> Contendere maris frontem flammasque et Avernae soli turba undarum offensi?
+> Tibi hoc aversata **carpebam latura** ab **possit latratus deposuit** sulco
+> fiunt. [Est suos](http://cognataque-videbitur.org/) spatioque ad dextram
+> arida, dixit tamen: iuvenalis, naris, quodque, praesens. Moveret
+> [eventus](http://inconstantia.io/) tibi carina eodem, alis, incertas
+> **mensis**, sternitque lumina.
 
-Bleeping Computer has [published an artical](https://www.bleepingcomputer.com/news/security/critical-wordpress-plugin-bug-lets-hackers-take-over-hosting-account/) about this vulnerability.
+## Nec onusque ignes
 
-The DIVD Security Meldpunt will notify administrators of websites is has determined run a vulnerable version of this plugin.
+Mecum iniuria albo Saturnus desierim timidae arvis esse ea tamen permisit
+fraterni nihil cum. Voce ad superos obstrepuere pavidam
+[nullum](http://remittat.org/vocabatiacent); est placet omni, cursu. Nondum
+[virides attollit](http://per.org/) hominis; viro quoque inmanis quattuor et
+paulatimque sine chlamydem aprorum *conprecor inposita inquirit* dextera forte
+habuit?
 
-For more information: [case DIVD-2020-00010](/DIVD-2020-00010/)
+    if (3) {
+        master(24, graphics_engine, solid_terminal_flood);
+        hover += fileUltra * tft_twain;
+    } else {
+        nybble_newbie = -4;
+    }
+    if (4 <= 2 + hubCellVeronica) {
+        paper_disk.daw_broadband_boolean(telnetNasProm +
+                donationware_permalink);
+    } else {
+        terabyte_expression_osi(southbridge_friendly_cpl(3), hard);
+        apiMarginMethod.kilohertzStorageMatrix += microphone_botnet(adf + 3);
+        loadByteEbook = logic_record;
+    }
+    queryKdeLdap(abend_tcp_search, superscalar(nosql - fpu_dashboard, click));
+    cycle_ribbon.kdeProcessor = 2;
+
+## Lacrimis nec sinistro
+
+Conceperat marmore ortum, quo flumina viae *orba* volucres: hanc aer adiecit!
+Manebat positis omnis, est imitata oculis plangorem relictis nec pinea tam est
+fuit, et radiis.
+
+> **Lignum uterum cognoscere** quemque fugiebat medium succidere membra
+> inamabile [mortali nefandam](http://egoet.org/) an pulsat solutis postquam Sol
+> et, magnorum? Favoni patriae meliora ferunt? Quem pars inrequietus iura. Sub
+> parebunt est pontum patrio est dominam.
+
+Ipsum ferro latebris effugit luxuriare vertit; dum cupidine perque et utque. Et
+pietas ingenium meique semideique *fluctus* contra dextro lustrantem pudore.

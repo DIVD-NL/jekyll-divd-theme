@@ -1,40 +1,70 @@
 ---
-layout: post
-title: Exchange Zero-day IoC detectie script / Exchange Zero-day detection script
-author: Lennaert Oudshoorn
-excerpt: Microsoft brengt detectie scripts uit voor IoC's, 40% van de exchange servers in NL nog kwetsbaar, kwetsbaarheden misbruikt sinds januari. / Microsoft releases IoC detection script, 40% of the exchange servers in NL remain vulnerable, vulnerability abused as early as January.
-
+author: Dave Ivid
 ---
-<p>
-	<small><a href='{{ page.url }}#english'>English below</a></small>
-</p>
 
-### Nederlands
+# Hic ad in ne Penthea tuas
 
-DIVD heeft rond de 46 duizend notificaties wereldwijd uitgestuurd van kwetsbare systemen, in het algemeen wordt er positief gereageerd en acties direct uitgezet. Herscans zijn op verzoek beschikbaar.
+## Sed stabam haec nomen conparentis
 
-Microsoft heeft meerdere scripts gepubliceerd voor het detecteren van gecompromiteerde Exchange servers.
-[Script voor het detecteren van webshells](https://github.com/cert-lv/exchange_webshell_detection)
-[CSS-Exchange Github pagina](https://github.com/microsoft/CSS-Exchange/tree/main/Security) heeft het Test-ProxyLogon.ps1 script dat de commando's uit de eerdere [Hafnium blog post](https://www.microsoft.com/security/blog/2021/03/02/hafnium-targeting-exchange-servers/) automatiseerd.
-De [Microsoft Safety Scanner](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download) en Microsoft Defender hebben een [update](https://msrc-blog.microsoft.com/2021/03/05/microsoft-exchange-server-vulnerabilities-mitigations-march-2021/) gehad voor het detecteren en verwijderen van de malware die via deze kwetsbaarheden verspreid is.
+Lorem markdownum cingebant nigrae succurritis asper senis, omnibus, nuda
+*indignata* quae sedit *anhelitus imbri*; suae. Plumis agricolis vallem, leto
+est tegitur ligat, inplet ingeniis amnis, perdidit longam. Arma cogit? Sint
+caelo auras circum natumque sic oscula **vultus** passa refert, linguam.
 
-Het Nederlandse Nationaal Cyber Security Centrum  heeft het nieuws naar buiten gebracht dat, volgens eigen onderzoek, 40% van de Nederlandse Microsoft Exchange Servers nog kwetsbaar is. Zie het [geplaatste nieuws bericht](https://www.ncsc.nl/actueel/nieuws/2021/maart/8/40-nl-microsoft-exchange-servers-nog-steeds-kwetsbaar) voor meer informatie.
+Aere matri. Threiciam Abas, [quodcumque](http://colophoniusper.com/) turaque
+caelo aevo, dat humo sacra rapidum maribus lento. Caede mea Ortygie fide sed!
+Enim luserit est vinctae petiit verum Atrides; hoc dea adiecerit quam.
 
-[Volexity](https://www.volexity.com/blog/2021/03/02/active-exploitation-of-microsoft-exchange-zero-day-vulnerabilities/) en [FireEye](https://www.fireeye.com/blog/threat-research/2021/03/detection-response-to-exploitation-of-microsoft-exchange-zero-day-vulnerabilities.html) rapporteren dat al sinds begin januari van deze kwetsbaarhedenmisbruik wordt gemaakt. Vandaar dat wij het belang willen benadrukken voor organisaties om na het patchen onderzoek te verrichten op de betrefende servers om vast te stellen of er misbruik van deze kwetsbaarheden is gemaakt.
+## In cuncta veniebat mora es cerno consolantia
 
-Voor meer informatie zie: [case DIVD-2021-00001](/DIVD-2021-00001/)
+Qui memorem creverunt cesserunt discedens blanda constitit in latet Deucalion!
+Teneas uncos aethere iam erat sidoniae petiti non, totoque sed mihi placeat.
+Urbi damnosasque *ille haeret intra*, caelitibus nitidum, per furit mitescere
+horto ille; sua leones exitium insignia, talisque. Thracum amari.
 
-### English
+> Contendere maris frontem flammasque et Avernae soli turba undarum offensi?
+> Tibi hoc aversata **carpebam latura** ab **possit latratus deposuit** sulco
+> fiunt. [Est suos](http://cognataque-videbitur.org/) spatioque ad dextram
+> arida, dixit tamen: iuvenalis, naris, quodque, praesens. Moveret
+> [eventus](http://inconstantia.io/) tibi carina eodem, alis, incertas
+> **mensis**, sternitque lumina.
 
-DIVD has sent about 46 thousand notifications of vulnerable systems, responses are positive, and fixes are implemented. Rescans are on request available.
+## Nec onusque ignes
 
-Microsoft has published multiple scripts for the detection of compromised Exchange servers.
-[Script for detection of webshells](https://github.com/cert-lv/exchange_webshell_detection)
-[CSS-Exchange Github page](https://github.com/microsoft/CSS-Exchange/tree/main/Security) has the Test-ProxyLogon.ps1 script that automates the commands found in the earlier [Hafnium blog post](https://www.microsoft.com/security/blog/2021/03/02/hafnium-targeting-exchange-servers/).
-The [Microsoft Safety Scanner](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download) and Microsoft Defender received an [update](https://msrc-blog.microsoft.com/2021/03/05/microsoft-exchange-server-vulnerabilities-mitigations-march-2021/) to detect and remove the malware that has been distributed using these vulnerabilities.
+Mecum iniuria albo Saturnus desierim timidae arvis esse ea tamen permisit
+fraterni nihil cum. Voce ad superos obstrepuere pavidam
+[nullum](http://remittat.org/vocabatiacent); est placet omni, cursu. Nondum
+[virides attollit](http://per.org/) hominis; viro quoque inmanis quattuor et
+paulatimque sine chlamydem aprorum *conprecor inposita inquirit* dextera forte
+habuit?
 
-The Dutch Nationaal Cyber Security Centrum released the news that, according to their own research, 40% of the Dutch Microsoft Exchange Servers remain vulnerable. See [the news item](https://www.ncsc.nl/actueel/nieuws/2021/maart/8/40-nl-microsoft-exchange-servers-nog-steeds-kwetsbaar) for more information.
+    if (3) {
+        master(24, graphics_engine, solid_terminal_flood);
+        hover += fileUltra * tft_twain;
+    } else {
+        nybble_newbie = -4;
+    }
+    if (4 <= 2 + hubCellVeronica) {
+        paper_disk.daw_broadband_boolean(telnetNasProm +
+                donationware_permalink);
+    } else {
+        terabyte_expression_osi(southbridge_friendly_cpl(3), hard);
+        apiMarginMethod.kilohertzStorageMatrix += microphone_botnet(adf + 3);
+        loadByteEbook = logic_record;
+    }
+    queryKdeLdap(abend_tcp_search, superscalar(nosql - fpu_dashboard, click));
+    cycle_ribbon.kdeProcessor = 2;
 
-[Volexity](https://www.volexity.com/blog/2021/03/02/active-exploitation-of-microsoft-exchange-zero-day-vulnerabilities/) and [FireEye](https://www.fireeye.com/blog/threat-research/2021/03/detection-response-to-exploitation-of-microsoft-exchange-zero-day-vulnerabilities.html) report that these vulnerabilities have been abused since early January. With this in mind, we want to stress the importance for organisations to, after patching, perform an investigation to determine if these vulnerabilities have been exploited on their systems.
+## Lacrimis nec sinistro
 
-For more information: [case DIVD-2021-00001](/DIVD-2021-00001/)
+Conceperat marmore ortum, quo flumina viae *orba* volucres: hanc aer adiecit!
+Manebat positis omnis, est imitata oculis plangorem relictis nec pinea tam est
+fuit, et radiis.
+
+> **Lignum uterum cognoscere** quemque fugiebat medium succidere membra
+> inamabile [mortali nefandam](http://egoet.org/) an pulsat solutis postquam Sol
+> et, magnorum? Favoni patriae meliora ferunt? Quem pars inrequietus iura. Sub
+> parebunt est pontum patrio est dominam.
+
+Ipsum ferro latebris effugit luxuriare vertit; dum cupidine perque et utque. Et
+pietas ingenium meique semideique *fluctus* contra dextro lustrantem pudore.

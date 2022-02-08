@@ -3,6 +3,7 @@
 Gemfile.lock
 _config_livereload.yml
 _site/
+*.log
 
 # From template
 

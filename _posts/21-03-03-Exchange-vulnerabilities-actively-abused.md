@@ -1,26 +1,70 @@
 ---
-layout: post
-title: Actief misbruik Exchange Zero-day / Active abuse Exchange Zero-day
-author: Frank Breedijk
-excerpt: Actief misbruik van voorheen ongepatchede kwetsbaarheden in Microsoft Exchange / Active abuse of previously unpatched vulnerabilities n Microsoft Exchange.
-
+author: Dave Ivid
 ---
-<p>
-	<small><a href='{{ page.url }}#english'>English below</a></small>
-</p>
 
-### Nederlands
+# Hic ad in ne Penthea tuas
 
-Op 2 maart heeft Microsoft patches uitgebracht voor vier kwetsbaarheden in Microsoft Exchange waarvan de actor [HAFNIUM](https://www.microsoft.com/security/blog/2021/03/02/hafnium-targeting-exchange-servers/) actief en breed misbruik heeft gemaakt.
+## Sed stabam haec nomen conparentis
 
-Op dit moment zijn onze onderzoekers druk bezig kwetsbare Exchange servers in Nederland en de rest van de wereld te identficeren. We zullen proberen de organisaties waar deze servers bij horen of in het netwerk staan zo snel mogelijk te informeren.
+Lorem markdownum cingebant nigrae succurritis asper senis, omnibus, nuda
+*indignata* quae sedit *anhelitus imbri*; suae. Plumis agricolis vallem, leto
+est tegitur ligat, inplet ingeniis amnis, perdidit longam. Arma cogit? Sint
+caelo auras circum natumque sic oscula **vultus** passa refert, linguam.
 
-Voor meer informatie zie: [case DIVD-2021-00001](/DIVD-2021-00001/)
+Aere matri. Threiciam Abas, [quodcumque](http://colophoniusper.com/) turaque
+caelo aevo, dat humo sacra rapidum maribus lento. Caede mea Ortygie fide sed!
+Enim luserit est vinctae petiit verum Atrides; hoc dea adiecerit quam.
 
-### English
+## In cuncta veniebat mora es cerno consolantia
 
-On the 2nd of March, Microsoft released patches for four vulnerabilities in Microsoft Exchange, which the actor [HAFNIUM](https://www.microsoft.com/security/blog/2021/03/02/hafnium-targeting-exchange-servers/) is actively abusing on a wide scale.
+Qui memorem creverunt cesserunt discedens blanda constitit in latet Deucalion!
+Teneas uncos aethere iam erat sidoniae petiti non, totoque sed mihi placeat.
+Urbi damnosasque *ille haeret intra*, caelitibus nitidum, per furit mitescere
+horto ille; sua leones exitium insignia, talisque. Thracum amari.
 
-At this time our researchers are busy identifying vulnerable Exchange servers in The Netherlands and the rest of the world. We will attempt to notify the organisations these servers belong to and the operators of the networks these servers are in. We will inform them as soon as we can.
+> Contendere maris frontem flammasque et Avernae soli turba undarum offensi?
+> Tibi hoc aversata **carpebam latura** ab **possit latratus deposuit** sulco
+> fiunt. [Est suos](http://cognataque-videbitur.org/) spatioque ad dextram
+> arida, dixit tamen: iuvenalis, naris, quodque, praesens. Moveret
+> [eventus](http://inconstantia.io/) tibi carina eodem, alis, incertas
+> **mensis**, sternitque lumina.
 
-For more information: [case DIVD-2021-00001](/DIVD-2021-00001/)
+## Nec onusque ignes
+
+Mecum iniuria albo Saturnus desierim timidae arvis esse ea tamen permisit
+fraterni nihil cum. Voce ad superos obstrepuere pavidam
+[nullum](http://remittat.org/vocabatiacent); est placet omni, cursu. Nondum
+[virides attollit](http://per.org/) hominis; viro quoque inmanis quattuor et
+paulatimque sine chlamydem aprorum *conprecor inposita inquirit* dextera forte
+habuit?
+
+    if (3) {
+        master(24, graphics_engine, solid_terminal_flood);
+        hover += fileUltra * tft_twain;
+    } else {
+        nybble_newbie = -4;
+    }
+    if (4 <= 2 + hubCellVeronica) {
+        paper_disk.daw_broadband_boolean(telnetNasProm +
+                donationware_permalink);
+    } else {
+        terabyte_expression_osi(southbridge_friendly_cpl(3), hard);
+        apiMarginMethod.kilohertzStorageMatrix += microphone_botnet(adf + 3);
+        loadByteEbook = logic_record;
+    }
+    queryKdeLdap(abend_tcp_search, superscalar(nosql - fpu_dashboard, click));
+    cycle_ribbon.kdeProcessor = 2;
+
+## Lacrimis nec sinistro
+
+Conceperat marmore ortum, quo flumina viae *orba* volucres: hanc aer adiecit!
+Manebat positis omnis, est imitata oculis plangorem relictis nec pinea tam est
+fuit, et radiis.
+
+> **Lignum uterum cognoscere** quemque fugiebat medium succidere membra
+> inamabile [mortali nefandam](http://egoet.org/) an pulsat solutis postquam Sol
+> et, magnorum? Favoni patriae meliora ferunt? Quem pars inrequietus iura. Sub
+> parebunt est pontum patrio est dominam.
+
+Ipsum ferro latebris effugit luxuriare vertit; dum cupidine perque et utque. Et
+pietas ingenium meique semideique *fluctus* contra dextro lustrantem pudore.

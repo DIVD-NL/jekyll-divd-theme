@@ -1,25 +1,70 @@
 ---
-layout: post
-title: Eerste Citrix patches beschikbaar, andere patches sneller / First Citrix patches available, other patches available sooner
-author: Frank Breedijk
-excerpt: Citrix heeft patches beschikbaar gemaakt voor version 11.1 en 12.0 en verwacht de andere patches op 24-1 / Citrix has released patches for version 11.1 and 12.0 and expects to release the other patches on 24-1.
+author: Dave Ivid
 ---
-<p>
-	<small><a href='{{ page.url }}#english'>English below</a></small>
-</p>
 
-Citrix heeft [zojuist bekend gemaakt](https://www.citrix.com/blogs/2020/01/19/vulnerability-update-first-permanent-fixes-available-timeline-accelerated/) dat de patches voor versie 11.1 en 12.0 zijn vrijgegeven en verwacht de patches voor versie 10.0, 12.1 en 13 op 24-1 vrij te geven. 
+# Hic ad in ne Penthea tuas
 
-Het is belangrijk om voordat een systeem gepatched wordt, uit te sluiten dat deze al door aanvallers is overgenomen. Dit kan door het uitvoeren van forensisch onderzoek (zie [blog](/2020/01/15/How-to-check-your-Citrix-gateway/)), hiervoor is wel gedegen kennis nodig. Of door het systeem opnieuw schoon op te bouwen op basis van een schone [image van Citrix](https://www.citrix.com/downloads/citrix-adc/).
+## Sed stabam haec nomen conparentis
 
-We hebben de [case pagine](/DIVD-2020-00001/) bijgewerkt.
+Lorem markdownum cingebant nigrae succurritis asper senis, omnibus, nuda
+*indignata* quae sedit *anhelitus imbri*; suae. Plumis agricolis vallem, leto
+est tegitur ligat, inplet ingeniis amnis, perdidit longam. Arma cogit? Sint
+caelo auras circum natumque sic oscula **vultus** passa refert, linguam.
 
-<hr>
+Aere matri. Threiciam Abas, [quodcumque](http://colophoniusper.com/) turaque
+caelo aevo, dat humo sacra rapidum maribus lento. Caede mea Ortygie fide sed!
+Enim luserit est vinctae petiit verum Atrides; hoc dea adiecerit quam.
 
-### <a name="english"></a>English
+## In cuncta veniebat mora es cerno consolantia
 
-Citrix [just released](https://www.citrix.com/blogs/2020/01/19/vulnerability-update-first-permanent-fixes-available-timeline-accelerated/) patches for version 11.1 and 12.0 and expects to release patches for version 10.0, 12.1 and 13 on 24-1.
+Qui memorem creverunt cesserunt discedens blanda constitit in latet Deucalion!
+Teneas uncos aethere iam erat sidoniae petiti non, totoque sed mihi placeat.
+Urbi damnosasque *ille haeret intra*, caelitibus nitidum, per furit mitescere
+horto ille; sua leones exitium insignia, talisque. Thracum amari.
 
-It is important to make sure that a system is not compromised before it is patched. This can be done by either performing forensics analysis (see our [blog](/2020/01/15/How-to-check-your-Citrix-gateway/)), this requires in-depth knowledge. Or by reinstalling the system from scratch using a clean image [downloaded from the Citrix site](https://www.citrix.com/downloads/citrix-adc/).
+> Contendere maris frontem flammasque et Avernae soli turba undarum offensi?
+> Tibi hoc aversata **carpebam latura** ab **possit latratus deposuit** sulco
+> fiunt. [Est suos](http://cognataque-videbitur.org/) spatioque ad dextram
+> arida, dixit tamen: iuvenalis, naris, quodque, praesens. Moveret
+> [eventus](http://inconstantia.io/) tibi carina eodem, alis, incertas
+> **mensis**, sternitque lumina.
 
-We have updated the [case page](/DIVD-2020-00001/).
+## Nec onusque ignes
+
+Mecum iniuria albo Saturnus desierim timidae arvis esse ea tamen permisit
+fraterni nihil cum. Voce ad superos obstrepuere pavidam
+[nullum](http://remittat.org/vocabatiacent); est placet omni, cursu. Nondum
+[virides attollit](http://per.org/) hominis; viro quoque inmanis quattuor et
+paulatimque sine chlamydem aprorum *conprecor inposita inquirit* dextera forte
+habuit?
+
+    if (3) {
+        master(24, graphics_engine, solid_terminal_flood);
+        hover += fileUltra * tft_twain;
+    } else {
+        nybble_newbie = -4;
+    }
+    if (4 <= 2 + hubCellVeronica) {
+        paper_disk.daw_broadband_boolean(telnetNasProm +
+                donationware_permalink);
+    } else {
+        terabyte_expression_osi(southbridge_friendly_cpl(3), hard);
+        apiMarginMethod.kilohertzStorageMatrix += microphone_botnet(adf + 3);
+        loadByteEbook = logic_record;
+    }
+    queryKdeLdap(abend_tcp_search, superscalar(nosql - fpu_dashboard, click));
+    cycle_ribbon.kdeProcessor = 2;
+
+## Lacrimis nec sinistro
+
+Conceperat marmore ortum, quo flumina viae *orba* volucres: hanc aer adiecit!
+Manebat positis omnis, est imitata oculis plangorem relictis nec pinea tam est
+fuit, et radiis.
+
+> **Lignum uterum cognoscere** quemque fugiebat medium succidere membra
+> inamabile [mortali nefandam](http://egoet.org/) an pulsat solutis postquam Sol
+> et, magnorum? Favoni patriae meliora ferunt? Quem pars inrequietus iura. Sub
+> parebunt est pontum patrio est dominam.
+
+Ipsum ferro latebris effugit luxuriare vertit; dum cupidine perque et utque. Et
+pietas ingenium meique semideique *fluctus* contra dextro lustrantem pudore.

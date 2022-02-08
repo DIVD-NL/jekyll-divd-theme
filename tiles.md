@@ -3,19 +3,19 @@ layout: tiles
 title: frontpage
 description: DIVD
 tiles: 
-- url:  /team
+- url:  /
   icon: fa-id-card
   name: Team
   description: DIVD is a platform for security researchers to report vulnerabilities, supported by volunteers.
-- url:  /code
+- url:  /just-a-page
   icon: fa-balance-scale
   name: Code of Conduct
   description: How and why we scan and report.
-- url:  /news
+- url:  /blog
   icon: fa-calendar-alt
   name: News & Events
   description: Just getting started with some presentations here and there
-- url:  /reports
+- url:  /includes
   icon: fa-file-alt
   name: REPORTS
   description: Reports on closed research
@@ -23,19 +23,19 @@ tiles:
   icon: fa-bell
   name: CSIRT
   description: Blog on current research by our Computer Security Incident Response Team
-- url:  /security
+- url:  /index
   icon: fa-shield
   name: SECURITY
   description: Public documents and reports about (our) security
-- url:  /contact
+- url:  /just-a-page
   icon: fa-envelope
   name: CONTACT
   description: We are a network of security researchers who mainly work online.
-- url:  /join
+- url:  /blog
   icon: fa-handshake
   name: JOIN
   description: Join DIVD
-- url:  /donate
+- url:  /includes
   icon: fa-eur
   name: DONATE
   description: We need your support for our mission.

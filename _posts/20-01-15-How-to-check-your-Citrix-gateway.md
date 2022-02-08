@@ -1,29 +1,70 @@
 ---
-layout: post
-title: Controles voor de Citrix ADC compromittatie / Checks to see if your Citrix ADC is compromised
-author: Frank Breedijk
-excerpt: Links naar controles om vast te stellen of een Citrix ADC is gecompromitteerd / Links to articles on how to check if your Citrix ADC is compromised
+author: Dave Ivid
 ---
-<p>
-	<small><a href='{{ page.url }}#english'>English below</a></small>
-</p>
 
-In mij [vorige blogpost](/2020/01/13/Citrix/) schreef ik dat het zeer goed mogelijk is dat Citrix ADC systemen waarna 11 januari de mitigate op is toegepast reeds overgenomen zijn. Inmiddels komen hierover de [eerste berichten](https://twitter.com/sans_isc/status/1216375320846176261) binnen. Het [Sans Internet Storm Center](https://isc.sans.edu) meld dan ook dat systemen [massaal misbruikt worden](https://isc.sans.edu/forums/diary/Citrix+ADC+Exploits+are+Public+and+Heavily+Used+Attempts+to+Install+Backdoor/25700/)
+# Hic ad in ne Penthea tuas
 
-Hieronder staan twee goede artikelen met gedetailleerde instructies die je kunt gebruiken om je Citrix systeem te controleren op misbruik:
+## Sed stabam haec nomen conparentis
 
-* [TrustedSec - Netscaler Remote code execution forensics](https://www.trustedsec.com/blog/netscaler-remote-code-execution-forensics/)
-* [x1sec - Citrix ADC (NetScaler) CVE-2019-19781 DFIR Notes](https://github.com/x1sec/CVE-2019-19781/blob/master/CVE-2019-19781-DFIR.md)
-* [NerdScaler - Citrix ADC CVE-2019-19781 exploited! What now?](https://nerdscaler.com/2020/01/13/citrix-adc-cve-2019-19781-exploited-what-now/)
+Lorem markdownum cingebant nigrae succurritis asper senis, omnibus, nuda
+*indignata* quae sedit *anhelitus imbri*; suae. Plumis agricolis vallem, leto
+est tegitur ligat, inplet ingeniis amnis, perdidit longam. Arma cogit? Sint
+caelo auras circum natumque sic oscula **vultus** passa refert, linguam.
 
-<hr>
+Aere matri. Threiciam Abas, [quodcumque](http://colophoniusper.com/) turaque
+caelo aevo, dat humo sacra rapidum maribus lento. Caede mea Ortygie fide sed!
+Enim luserit est vinctae petiit verum Atrides; hoc dea adiecerit quam.
 
-### <a name="english"></a>English
+## In cuncta veniebat mora es cerno consolantia
 
-In my [previous blogpost](/2020/01/13/Citrix/) I wrote that it is very likely that any Citrix ADC that did not have the mitigations applied after the 11th of Janary is compromised. By now we are receiving the [first reports](https://twitter.com/sans_isc/status/1216375320846176261) on this. The [Sans Internet Storm Center](https://isc.sans.edu) is also reporting that [systems are being mass compromised](https://isc.sans.edu/forums/diary/Citrix+ADC+Exploits+are+Public+and+Heavily+Used+Attempts+to+Install+Backdoor/25700/).
+Qui memorem creverunt cesserunt discedens blanda constitit in latet Deucalion!
+Teneas uncos aethere iam erat sidoniae petiti non, totoque sed mihi placeat.
+Urbi damnosasque *ille haeret intra*, caelitibus nitidum, per furit mitescere
+horto ille; sua leones exitium insignia, talisque. Thracum amari.
 
-Below I've listed two good articles about actions that can be taken to check if and how a system is compromised:
+> Contendere maris frontem flammasque et Avernae soli turba undarum offensi?
+> Tibi hoc aversata **carpebam latura** ab **possit latratus deposuit** sulco
+> fiunt. [Est suos](http://cognataque-videbitur.org/) spatioque ad dextram
+> arida, dixit tamen: iuvenalis, naris, quodque, praesens. Moveret
+> [eventus](http://inconstantia.io/) tibi carina eodem, alis, incertas
+> **mensis**, sternitque lumina.
 
-* [TrustedSec - Netscaler Remote code execution forensics](https://www.trustedsec.com/blog/netscaler-remote-code-execution-forensics/)
-* [x1sec - Citrix ADC (NetScaler) CVE-2019-19781 DFIR Notes](https://github.com/x1sec/CVE-2019-19781/blob/master/CVE-2019-19781-DFIR.md)
-* [NerdScaler - Citrix ADC CVE-2019-19781 exploited! What now?](https://nerdscaler.com/2020/01/13/citrix-adc-cve-2019-19781-exploited-what-now/)
+## Nec onusque ignes
+
+Mecum iniuria albo Saturnus desierim timidae arvis esse ea tamen permisit
+fraterni nihil cum. Voce ad superos obstrepuere pavidam
+[nullum](http://remittat.org/vocabatiacent); est placet omni, cursu. Nondum
+[virides attollit](http://per.org/) hominis; viro quoque inmanis quattuor et
+paulatimque sine chlamydem aprorum *conprecor inposita inquirit* dextera forte
+habuit?
+
+    if (3) {
+        master(24, graphics_engine, solid_terminal_flood);
+        hover += fileUltra * tft_twain;
+    } else {
+        nybble_newbie = -4;
+    }
+    if (4 <= 2 + hubCellVeronica) {
+        paper_disk.daw_broadband_boolean(telnetNasProm +
+                donationware_permalink);
+    } else {
+        terabyte_expression_osi(southbridge_friendly_cpl(3), hard);
+        apiMarginMethod.kilohertzStorageMatrix += microphone_botnet(adf + 3);
+        loadByteEbook = logic_record;
+    }
+    queryKdeLdap(abend_tcp_search, superscalar(nosql - fpu_dashboard, click));
+    cycle_ribbon.kdeProcessor = 2;
+
+## Lacrimis nec sinistro
+
+Conceperat marmore ortum, quo flumina viae *orba* volucres: hanc aer adiecit!
+Manebat positis omnis, est imitata oculis plangorem relictis nec pinea tam est
+fuit, et radiis.
+
+> **Lignum uterum cognoscere** quemque fugiebat medium succidere membra
+> inamabile [mortali nefandam](http://egoet.org/) an pulsat solutis postquam Sol
+> et, magnorum? Favoni patriae meliora ferunt? Quem pars inrequietus iura. Sub
+> parebunt est pontum patrio est dominam.
+
+Ipsum ferro latebris effugit luxuriare vertit; dum cupidine perque et utque. Et
+pietas ingenium meique semideique *fluctus* contra dextro lustrantem pudore.

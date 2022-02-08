@@ -1,44 +1,70 @@
 ---
-layout: post
-title: Vembu Zero Days
-author: Gerard Janssen
-excerpt: "
-	DIVD-researcher Wietse Boonstra vond vier zerodays in de Vembu BDR en gerelateeerde software / 
-	DIVD researcher Wietse Boonstra has found four zero day vulnerabilities in Vembu BDR and related software
-"
+author: Dave Ivid
 ---
-<p>
-	<small><a href='{{ page.url }}#english'>English below</a></small>
-</p>
 
+# Hic ad in ne Penthea tuas
 
-### Nederlands
+## Sed stabam haec nomen conparentis
 
-DIVD researcher Wietse Boonstra vond vier zero-day kwetsbaarheden in Vembu BDR Suite, software die bedrijven helpt bij het maken van backups en 'disaster recovery'. Via een of meerdere van deze kwetsbaarheden kan een aanvaller een kwetsbaar Vembu BDR systeem overnemen en toegang krijgen tot de opgeslagen data. Geen van de kwetsbaarheden was eerder gepubliceerd.
- 
-Tijdens een pentest in januari vond Boonstra vier lekken. Via commando's in de webbrowser lukte het om in te breken op het Vembu-systeem van een van Boonstra's klanten. Een kwetsbaarheid in dit soort software is ernstig. Backup en recovery-software grijpt per definitie diep in op het systeem van gebruikers van van Vembu. Volgens de eigen Vembu-site maken NASA, Samsung, Fujitsu en Epic Games gebruik van Vembu BDR Suite. De DIVD zal beheerders van netwerken waarin kwetsbare installaties staan de komende dagen waarschuwen.
+Lorem markdownum cingebant nigrae succurritis asper senis, omnibus, nuda
+*indignata* quae sedit *anhelitus imbri*; suae. Plumis agricolis vallem, leto
+est tegitur ligat, inplet ingeniis amnis, perdidit longam. Arma cogit? Sint
+caelo auras circum natumque sic oscula **vultus** passa refert, linguam.
 
-Boonstra vond vier kwetsbaarheden. Drie daarvan zijn remote code execution (RCE) kwetsbaarheden, die vaak beschouwd worden als de ernstigste kwetsbaarheden. De vierde kwetsbaarheid is een Server-side request forgery (SSRF), die het mogelijk maakt om de toegangscontrole tot een systeem te omzeilen.
+Aere matri. Threiciam Abas, [quodcumque](http://colophoniusper.com/) turaque
+caelo aevo, dat humo sacra rapidum maribus lento. Caede mea Ortygie fide sed!
+Enim luserit est vinctae petiit verum Atrides; hoc dea adiecerit quam.
 
-Boonstra meldde de lekken bij Vembu, maar kreeg aanvankelijk geen respons. Via andere kanalen lukte het de DIVD half februari wel contact te krijgen met Vembu. Vembu antwoordde dat de kwetsbaarheden al bekend waren en opgelost in de laatste versies van de software. Klanten kregen echter alleen een update als ze er actief om vroegen. Na enig aandringen van de DIVD is de gepatchte versie in april toch online gekomen. 
+## In cuncta veniebat mora es cerno consolantia
 
-Nader onderzoek leert dat de kwetsbaarheden mogelijk ook in andere door Vembu gemaakte, producten voorkomt en dat de Server Side Request Forgery kwetsbaarheid zelfs in veel van deze producten voorkomt.
+Qui memorem creverunt cesserunt discedens blanda constitit in latet Deucalion!
+Teneas uncos aethere iam erat sidoniae petiti non, totoque sed mihi placeat.
+Urbi damnosasque *ille haeret intra*, caelitibus nitidum, per furit mitescere
+horto ille; sua leones exitium insignia, talisque. Thracum amari.
 
+> Contendere maris frontem flammasque et Avernae soli turba undarum offensi?
+> Tibi hoc aversata **carpebam latura** ab **possit latratus deposuit** sulco
+> fiunt. [Est suos](http://cognataque-videbitur.org/) spatioque ad dextram
+> arida, dixit tamen: iuvenalis, naris, quodque, praesens. Moveret
+> [eventus](http://inconstantia.io/) tibi carina eodem, alis, incertas
+> **mensis**, sternitque lumina.
 
-Zie ook: [case DIVD-2020-00011](/DIVD-2020-00011/)
+## Nec onusque ignes
 
+Mecum iniuria albo Saturnus desierim timidae arvis esse ea tamen permisit
+fraterni nihil cum. Voce ad superos obstrepuere pavidam
+[nullum](http://remittat.org/vocabatiacent); est placet omni, cursu. Nondum
+[virides attollit](http://per.org/) hominis; viro quoque inmanis quattuor et
+paulatimque sine chlamydem aprorum *conprecor inposita inquirit* dextera forte
+habuit?
 
-### English
+    if (3) {
+        master(24, graphics_engine, solid_terminal_flood);
+        hover += fileUltra * tft_twain;
+    } else {
+        nybble_newbie = -4;
+    }
+    if (4 <= 2 + hubCellVeronica) {
+        paper_disk.daw_broadband_boolean(telnetNasProm +
+                donationware_permalink);
+    } else {
+        terabyte_expression_osi(southbridge_friendly_cpl(3), hard);
+        apiMarginMethod.kilohertzStorageMatrix += microphone_botnet(adf + 3);
+        loadByteEbook = logic_record;
+    }
+    queryKdeLdap(abend_tcp_search, superscalar(nosql - fpu_dashboard, click));
+    cycle_ribbon.kdeProcessor = 2;
 
-DIVD researcher Wietse Boonstra found four zero-day vulnerabilities in Vembu BDR Suite, software that helps companies make backups and 'disaster recovery'. An attacker can take over a vulnerable Vembu BDR system and gain access to the stored data via one or more of these vulnerabilities. None of the vulnerabilities had been previously published.
- 
-During a pentest in January, Boonstra found four leaks. Via commands in the web browser it was possible to break into the Vembu system of one of Boonstra's customers. A vulnerability in this type of software is serious. This kind of backup and recovery software by definition has a deep impact on the system. Vembu's customers are both small companies and large organizations. According to its own Vembu site, NASA, Samsung, Fujitsu, and Epic Games are using Vembu BDR Suite. The DIVD will warn administrators of networks containing vulnerable installations in the coming days.
+## Lacrimis nec sinistro
 
-Boonstra found four vulnerabilities. Three of these are remote code execution (RCE) vulnerabilities, which are often considered the most serious vulnerabilities. The fourth vulnerability is a Server-side request forgery (SSRF), which makes it possible to bypass access control to a system.
+Conceperat marmore ortum, quo flumina viae *orba* volucres: hanc aer adiecit!
+Manebat positis omnis, est imitata oculis plangorem relictis nec pinea tam est
+fuit, et radiis.
 
-Boonstra reported the leaks at Vembu, but initially received no response. The DIVD did manage to get in touch with Vembu through other channels in mid-February. Vembu replied that the vulnerabilities were already known and fixed in the latest versions of the software. However, customers only got an update when they actively asked for it. After some urging from the DIVD, the patched version came online in April.
+> **Lignum uterum cognoscere** quemque fugiebat medium succidere membra
+> inamabile [mortali nefandam](http://egoet.org/) an pulsat solutis postquam Sol
+> et, magnorum? Favoni patriae meliora ferunt? Quem pars inrequietus iura. Sub
+> parebunt est pontum patrio est dominam.
 
-Further research has showed that these vulnerabilities are also present in other products created by Vembu. The Server Side Request FOrgery is even present in a lot of their products.
-
-
-For more information: [case DIVD-2020-00011](/DIVD-2020-00011/)
+Ipsum ferro latebris effugit luxuriare vertit; dum cupidine perque et utque. Et
+pietas ingenium meique semideique *fluctus* contra dextro lustrantem pudore.
