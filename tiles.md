@@ -23,7 +23,7 @@ tiles:
   icon: fa-bell
   name: CSIRT
   description: Blog on current research by our Computer Security Incident Response Team
-- url:  /index
+- url:  /
   icon: fa-shield
   name: SECURITY
   description: Public documents and reports about (our) security
