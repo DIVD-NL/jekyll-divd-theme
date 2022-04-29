@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="321px" height="162px" viewBox="0 0 321 162" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>divd-logo</title>
+    <g id="divd-logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M240.078,156.001 L80.323,156.001 C38.723,156.001 5,122.277 5,80.677 C5,39.077 38.723,5.354 80.323,5.354 L240.078,5.354 C281.679,5.354 315.401,39.077 315.401,80.677 C315.401,122.277 281.679,156.001 240.078,156.001" id="Fill-1" fill="#1A1919"></path>
+        <path d="M240.078,156.001 L80.323,156.001 C38.723,156.001 5,122.277 5,80.677 C5,39.077 38.723,5.354 80.323,5.354 L240.078,5.354 C281.679,5.354 315.401,39.077 315.401,80.677 C315.401,122.277 281.679,156.001 240.078,156.001 Z" id="Stroke-2" stroke="#EDE740" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"></path>
+        <text id="DIVD" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="101" font-weight="normal" letter-spacing="0.0001" fill="#EDE740">
+            <tspan x="36" y="117">DIVD</tspan>
+        </text>
+    </g>
+</svg>
